@@ -1,4 +1,5 @@
 ---
+title: 软数前端开发文档
 hero:
   title: ruanshu
   desc: 软数前端开发文档平台
