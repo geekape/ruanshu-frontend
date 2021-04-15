@@ -1,5 +1,5 @@
 ---
-title: useRequest
+title: flutter项目介绍
 nav:
   title: Flutter(APP)
   path: /flutter
@@ -9,7 +9,3 @@ group:
   path: /flutter/basics
   order: 1
 ---
-
-
-## 什么是 dumi？
-234234
